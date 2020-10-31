@@ -1,4 +1,4 @@
-# hy-vue-temp
+# camus-vue-temp
 
 ## Project setup
 ```
